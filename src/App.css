@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: #cecbcb;
+  border-radius: 50px;
+}
+.profile {
+  display: flex;
+  padding: 20px;
+  margin: 20px;
+}
